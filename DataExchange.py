@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 14 18:27:09 2021
-
-@author: sakam
-"""
-
-
 import pandas as pd
 
 def ReadData(past, log):
@@ -35,4 +27,3 @@ def main():
     
 if __name__ == "__main__":
     main()
-    
